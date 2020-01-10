@@ -1,0 +1,1 @@
+1. ld.so* is dynamic libraries, dynamic linking performs the linking process “on the fly” as programs are executed in the system. In dynamic linking, dynamic libraries are loaded into memory by programs when they start.2. get system charset info3. 163844. exit_group
